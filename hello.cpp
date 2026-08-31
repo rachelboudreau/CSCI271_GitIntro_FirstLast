@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Rachel Boudreau
+// Section: 1285
 
 #include <iostream>
 using namespace std;
